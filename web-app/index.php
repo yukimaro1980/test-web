@@ -20,7 +20,6 @@
 <body>
   <h1>Hello world</h1>
   <p>testtesttest</p>
-  <ul><?php foreach($INFO as $e){echo '<li>', $e, '</li>';}?></ul>
-  <?php THIS-IS-ERROR();?> 
+  <ul><?php foreach($INFO as $e){echo '<li>', $e, '</li>';}?></ul> 
 </body>
 </html>
